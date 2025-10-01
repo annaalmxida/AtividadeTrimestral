@@ -1,7 +1,0 @@
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\bin\Debug\AtividadeTrimestral2.0.exe.config
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\bin\Debug\AtividadeTrimestral2.0.exe
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\bin\Debug\AtividadeTrimestral2.0.pdb
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\obj\Debug\AtividadeTrimestral2.0.csproj.AssemblyReference.cache
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\obj\Debug\AtividadeTrimestral2.0.csproj.CoreCompileInputs.cache
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\obj\Debug\AtividadeTrimestral2.0.exe
-C:\Users\lab1059\source\repos\AtividadeTrimestral2.0\AtividadeTrimestral2.0\obj\Debug\AtividadeTrimestral2.0.pdb
